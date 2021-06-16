@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Cimri.com</string>
+    <string name="login_Text">Giriş Yap</string>
+    <string name="login_email">E-posta:</string>
+    <string name="login_password">Şifre:</string>
+    <string name="splashActivity">SplashActivity</string>
+    <string name="categoryActivity">CategoryActivity</string>
+    <string name="welcome">Hoşgeldiniz</string>
+    <string name="waiting">Lütfen Bekleyiniz...</string>
+    <string name="renk">Renk:</string>
+    <string name="marka">Marka:</string>
+    <string name="search">Arama Yap</string>
+    <string name="caegorys">Kategoriler</string>
+    <string name="items">Ürünler</string>
+
+    <string name="not_Null">Veriler boş geçilemez</string>
+    <string name="login">Giriş Yapıldı.</string>
+    <string name="not_login">Kullanıcı bulunamadı!</string>
+
+
+    <string name="alert_title">Dikkat</string>
+    <string name="alert_message">İnternet bağlantısı bulunamadı!</string>
+    <string name="alert_settings">Ayarlara Git</string>
+    <string name="alert_close">Kapat</string>
+    <string name="alert_exit">Çık</string>
+
+    <string name="alert_message2">Uygulamadan çıkış yapmak üzeresiniz!</string>
+    <string name="alert_okey">Tamam</string>
+    <string name="alert_no">Hayır</string>
+
+
+    <string name="artan">İsme göre artan</string>
+    <string name="azalan">İsme göre azalan</string>
+
+    <string-array name="filter_array">
+        <item>İsme göre artan</item>
+        <item>İsme göre azalan</item>
+    </string-array>
+
+</resources>

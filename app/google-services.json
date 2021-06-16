@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59889994314",
+    "project_id": "cimri-55ce8",
+    "storage_bucket": "cimri-55ce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59889994314:android:2a63144659295b942ef4b3",
+        "android_client_info": {
+          "package_name": "com.medipol.zahitcankaraca.cimricom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59889994314-55gnuq9otphqmlkj8ot82uv7ukjjc9ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDvF3xzEczzwaNaD_zRMVELpGV-Zdf2L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59889994314-55gnuq9otphqmlkj8ot82uv7ukjjc9ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_width">250dp</dimen>
+    <dimen name="login_logo_width">150dp</dimen>
+    <dimen name="login_logo_height">60dp</dimen>
+    <dimen name="input_width">350dp</dimen>
+    <dimen name="tenDp">10dp</dimen>
+    <dimen name="fiveDp">5dp</dimen>
+    <dimen name="fifteenDp">15dp</dimen>
+    <dimen name="oneDp">1dp</dimen>
+    <dimen name="login_button_height">40dp</dimen>
+    <dimen name="twentyDp">20dp</dimen>
+    <dimen name="input_Height">40dp</dimen>
+    <dimen name="category_img">100dp</dimen>
+    <dimen name="cardview_width">180dp</dimen>
+    <dimen name="cardview_height">180dp</dimen>
+    <dimen name="listitems_height">100dp</dimen>
+    <dimen name="text_size">26sp</dimen>
+    <dimen name="text_size2">18sp</dimen>
+    <dimen name="image">120dp</dimen>
+    <dimen name="image2">150dp</dimen>
+    <dimen name="image3">300dp</dimen>
+    <dimen name="image4">30dp</dimen>
+    <dimen name="detay_width">80dp</dimen>
+    <dimen name="spinner_width">200dp</dimen>
+    <dimen name="switch_padding">-1dp</dimen>
+    <dimen name="switch_radius">36dp</dimen>
+    <dimen name="switch_size">36dp</dimen>
+    <dimen name="textLoadind">19sp</dimen>
+
+</resources>
