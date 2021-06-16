@@ -20,7 +20,7 @@ This application is a Cimri.com clone prepared using mvvm architecture. Fibase w
 
 ## Gif
 <p float="left">
-  <img src="https://github.com/zhtcnkaraca/Cimri.Com_Clone/blob/main/Screens/ekran.gif" width="200"/>&emsp;&emsp;&emsp;
+  <img src="https://github.com/zhtcnkaraca/Cimri.Com_Clone/blob/main/Screens/ekran.gif" width="400"/>&emsp;&emsp;&emsp;
 </p>
 
 
