@@ -28,13 +28,13 @@ This application is a Cimri.com clone prepared using mvvm architecture. Fibase w
 
 ## Clean Simple Architecture 🛠
 
-<li><a href="https://developer.android.com/jetpack/androidx/releases/cardview">CardView</a></li>
-<li><a href="https://firebase.google.com">Firebase</a></li>
 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
-<li><a href="https://developer.android.com/topic/libraries/data-binding">DataBinding</a></li>
-<li><a href="https://developer.android.com/reference/android/app/AlertDialog">AlertDialog</a></li>
-<li><a href="https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=en">RecyclerView</a></li>
+<li><a href="https://firebase.google.com">Firebase</a></li>
 <li><a href="https://firebase.google.com/products/auth">Firebase Authentication</a>
+<li><a href="https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=en">RecyclerView</a></li>
+<li><a href="https://developer.android.com/topic/libraries/data-binding">DataBinding</a></li>
+<li><a href="https://developer.android.com/jetpack/androidx/releases/cardview">CardView</a></li>
+<li><a href="https://developer.android.com/reference/android/app/AlertDialog">AlertDialog</a></li>
 
 License
 --------
