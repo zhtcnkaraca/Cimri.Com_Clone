@@ -1,3 +1,4 @@
+# [Cimri.Com ( MVVM & Kotlin )]
 <img src="https://github.com/zhtcnkaraca/Cimri.Com_Clone/blob/main/Screens/banner.jpeg"/>&emsp;&emsp;&emsp;
 <h2 id="Logo">Logo</h2>
 
@@ -5,7 +6,7 @@
 
 This application is a Cimri.com clone prepared using mvvm architecture. Fibase was used as the database.
 
-<h2 id="screens">Screens</h2>
+<h2 id="Outputs">Outputs</h2>
 <p>
   <img height= "400"  src="https://github.com/zhtcnkaraca/Cimri.Com_Clone/blob/main/Screens/1.PNG" alt="SS4"/>
   <img height= "400"  src="https://github.com/zhtcnkaraca/Cimri.Com_Clone/blob/main/Screens/2.PNG" alt="SS4"/>
