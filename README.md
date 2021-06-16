@@ -1,3 +1,4 @@
+<img src="https://github.com/zhtcnkaraca/Cimri.Com_Clone/blob/main/Screens/banner.jpeg" width="200"/>&emsp;&emsp;&emsp;
 <h2 id="Logo">Logo</h2>
 
 ![appicon](https://github.com/zhtcnkaraca/Cimri.Com_Clone/blob/main/Screens/logo.png)
