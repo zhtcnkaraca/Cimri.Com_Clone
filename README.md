@@ -25,7 +25,7 @@ This application is a Cimri.com clone prepared using mvvm architecture. Fibase w
 ## MVVM Architecture
 ![Architecture](https://github.com/zhtcnkaraca/Cimri.Com_Clone/blob/main/Screens/mimaripaket.PNG)
 
-## Kullanmış Olduğum Araçlar 🛠
+## Clean Simple Architecture 🛠
 
 <li><a href="https://developer.android.com/jetpack/androidx/releases/cardview">CardView</a></li>
 <li><a href="https://firebase.google.com">Firebase</a></li>
@@ -35,15 +35,10 @@ This application is a Cimri.com clone prepared using mvvm architecture. Fibase w
 <li><a href="https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=en">RecyclerView</a></li>
 <li><a href="https://firebase.google.com/products/auth">Firebase Authentication</a>
 
-
-
-
-
 License
 --------
 
-
-    Copyright 2021 Baran Civak.
+    Copyright 2021 Zahit Can KARACA.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
